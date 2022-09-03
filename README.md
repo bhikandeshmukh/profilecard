@@ -1,4 +1,4 @@
 ## For Demo
 
-[click here](https://thebhikandeshmukh.github.io/profilecard/)
+[click here](https://bhikandeshmukh.github.io/profilecard/)
 
